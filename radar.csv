@@ -1,6 +1,3 @@
-,,,,,
-,,,,,
-,,,,,
 JSON,name,ring,quadrant,isNew,description
 "{""name"": ""AWS"", ""ring"": ""Adopt"", ""quadrant"": ""Platforms"", ""description"": ""Primary infrastructure platform used for a majority of our services, offering scalability, reliability, and a wide range of cloud services including computing, storage, and databases.""},",AWS,Adopt,Platforms,FALSE,"Primary infrastructure platform used for a majority of our services, offering scalability, reliability, and a wide range of cloud services including computing, storage, and databases."
 "{""name"": ""Kubernetes"", ""ring"": ""Adopt"", ""quadrant"": ""Platforms"", ""description"": ""Core platform for deploying and managing containerized applications, enabling efficient orchestration, scaling, and management of microservices across clusters.""},",Kubernetes,Adopt,Platforms,FALSE,"Core platform for deploying and managing containerized applications, enabling efficient orchestration, scaling, and management of microservices across clusters."
